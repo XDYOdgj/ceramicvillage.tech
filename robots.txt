@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ceramicvillage.tech/sitemap.xml
